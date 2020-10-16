@@ -1,1 +1,1 @@
-# Algothrims-ios
+# Algorithms-ios
